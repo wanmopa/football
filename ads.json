@@ -1,1 +1,182 @@
+{
+  "Tables": [
+    {
+      "CountryName": "England",
+      "CountryFlag": "https://flagcdn.com/w320/gb.png",
+      "CompetitionName": "Premier League",
+      "Teams": [
+        {"Position":1,"TeamName":"Manchester City","Played":3,"Wins":3,"Draws":0,"Losses":0,"GoalsFor":7,"GoalsAgainst":2,"GoalDifference":5,"Points":9,"Form":""},
+        {"Position":2,"TeamName":"Arsenal","Played":3,"Wins":3,"Draws":0,"Losses":0,"GoalsFor":6,"GoalsAgainst":1,"GoalDifference":5,"Points":9,"Form":""},
+        {"Position":3,"TeamName":"Hull City","Played":3,"Wins":2,"Draws":1,"Losses":0,"GoalsFor":3,"GoalsAgainst":0,"GoalDifference":3,"Points":7,"Form":""},
+        {"Position":4,"TeamName":"Chelsea","Played":3,"Wins":2,"Draws":0,"Losses":1,"GoalsFor":8,"GoalsAgainst":7,"GoalDifference":1,"Points":6,"Form":""},
+        {"Position":5,"TeamName":"Brentford","Played":3,"Wins":1,"Draws":2,"Losses":0,"GoalsFor":5,"GoalsAgainst":2,"GoalDifference":3,"Points":5,"Form":""},
+        {"Position":6,"TeamName":"Liverpool","Played":3,"Wins":1,"Draws":2,"Losses":0,"GoalsFor":6,"GoalsAgainst":4,"GoalDifference":2,"Points":5,"Form":""},
+        {"Position":7,"TeamName":"Newcastle United","Played":3,"Wins":1,"Draws":2,"Losses":0,"GoalsFor":6,"GoalsAgainst":4,"GoalDifference":2,"Points":5,"Form":""},
+        {"Position":8,"TeamName":"Everton","Played":3,"Wins":1,"Draws":2,"Losses":0,"GoalsFor":5,"GoalsAgainst":3,"GoalDifference":2,"Points":5,"Form":""},
+        {"Position":9,"TeamName":"Leeds United","Played":3,"Wins":1,"Draws":2,"Losses":0,"GoalsFor":3,"GoalsAgainst":2,"GoalDifference":1,"Points":5,"Form":""},
+        {"Position":10,"TeamName":"Brighton & Hove Albion","Played":3,"Wins":1,"Draws":1,"Losses":1,"GoalsFor":8,"GoalsAgainst":5,"GoalDifference":3,"Points":4,"Form":""},
+        {"Position":11,"TeamName":"Manchester United","Played":3,"Wins":1,"Draws":1,"Losses":1,"GoalsFor":7,"GoalsAgainst":6,"GoalDifference":1,"Points":4,"Form":""},
+        {"Position":12,"TeamName":"Sunderland","Played":3,"Wins":1,"Draws":1,"Losses":1,"GoalsFor":3,"GoalsAgainst":3,"GoalDifference":0,"Points":4,"Form":""},
+        {"Position":13,"TeamName":"Crystal Palace","Played":3,"Wins":1,"Draws":0,"Losses":2,"GoalsFor":4,"GoalsAgainst":8,"GoalDifference":-4,"Points":3,"Form":""},
+        {"Position":14,"TeamName":"Ipswich Town","Played":3,"Wins":1,"Draws":0,"Losses":2,"GoalsFor":4,"GoalsAgainst":8,"GoalDifference":-4,"Points":3,"Form":""},
+        {"Position":15,"TeamName":"AFC Bournemouth","Played":3,"Wins":0,"Draws":2,"Losses":1,"GoalsFor":4,"GoalsAgainst":5,"GoalDifference":-1,"Points":2,"Form":""},
+        {"Position":16,"TeamName":"Nottingham Forest","Played":3,"Wins":0,"Draws":2,"Losses":1,"GoalsFor":2,"GoalsAgainst":3,"GoalDifference":-1,"Points":2,"Form":""},
+        {"Position":17,"TeamName":"Aston Villa","Played":3,"Wins":0,"Draws":1,"Losses":2,"GoalsFor":0,"GoalsAgainst":5,"GoalDifference":-5,"Points":1,"Form":""},
+        {"Position":18,"TeamName":"Tottenham Hotspur","Played":3,"Wins":0,"Draws":1,"Losses":2,"GoalsFor":0,"GoalsAgainst":5,"GoalDifference":-5,"Points":1,"Form":""},
+        {"Position":19,"TeamName":"Fulham","Played":3,"Wins":0,"Draws":0,"Losses":3,"GoalsFor":4,"GoalsAgainst":7,"GoalDifference":-3,"Points":0,"Form":""},
+        {"Position":20,"TeamName":"Coventry City","Played":3,"Wins":0,"Draws":0,"Losses":3,"GoalsFor":0,"GoalsAgainst":5,"GoalDifference":-5,"Points":0,"Form":""}
+      ]
+    },
+    {
+      "CountryName": "Spain",
+      "CountryFlag": "https://flagcdn.com/w320/es.png",
+      "CompetitionName": "La Liga",
+      "Teams": [
+        {"Position":1,"TeamName":"FC Barcelona","Played":4,"Wins":4,"Draws":0,"Losses":0,"GoalsFor":17,"GoalsAgainst":2,"GoalDifference":15,"Points":12,"Form":""},
+        {"Position":2,"TeamName":"Deportivo Alavés","Played":4,"Wins":3,"Draws":1,"Losses":0,"GoalsFor":10,"GoalsAgainst":3,"GoalDifference":7,"Points":10,"Form":""},
+        {"Position":3,"TeamName":"Real Madrid","Played":4,"Wins":3,"Draws":0,"Losses":1,"GoalsFor":10,"GoalsAgainst":3,"GoalDifference":7,"Points":9,"Form":""},
+        {"Position":4,"TeamName":"Real Betis","Played":4,"Wins":3,"Draws":0,"Losses":1,"GoalsFor":5,"GoalsAgainst":5,"GoalDifference":0,"Points":9,"Form":""},
+        {"Position":5,"TeamName":"RC Deportivo","Played":4,"Wins":2,"Draws":2,"Losses":0,"GoalsFor":8,"GoalsAgainst":5,"GoalDifference":3,"Points":8,"Form":""},
+        {"Position":6,"TeamName":"Sevilla FC","Played":4,"Wins":2,"Draws":1,"Losses":1,"GoalsFor":7,"GoalsAgainst":6,"GoalDifference":1,"Points":7,"Form":""},
+        {"Position":7,"TeamName":"Atlético de Madrid","Played":4,"Wins":2,"Draws":1,"Losses":1,"GoalsFor":7,"GoalsAgainst":6,"GoalDifference":1,"Points":7,"Form":""},
+        {"Position":8,"TeamName":"CA Osasuna","Played":4,"Wins":2,"Draws":1,"Losses":1,"GoalsFor":5,"GoalsAgainst":6,"GoalDifference":-1,"Points":7,"Form":""},
+        {"Position":9,"TeamName":"Real Sociedad","Played":5,"Wins":2,"Draws":1,"Losses":2,"GoalsFor":6,"GoalsAgainst":8,"GoalDifference":-2,"Points":7,"Form":""},
+        {"Position":10,"TeamName":"Athletic Club","Played":4,"Wins":2,"Draws":0,"Losses":2,"GoalsFor":6,"GoalsAgainst":5,"GoalDifference":1,"Points":6,"Form":""},
+        {"Position":11,"TeamName":"Levante UD","Played":4,"Wins":1,"Draws":2,"Losses":1,"GoalsFor":5,"GoalsAgainst":5,"GoalDifference":0,"Points":5,"Form":""},
+        {"Position":12,"TeamName":"RCD Espanyol de Barcelona","Played":4,"Wins":1,"Draws":1,"Losses":2,"GoalsFor":6,"GoalsAgainst":5,"GoalDifference":1,"Points":4,"Form":""},
+        {"Position":13,"TeamName":"R. Racing Club","Played":4,"Wins":1,"Draws":1,"Losses":2,"GoalsFor":7,"GoalsAgainst":8,"GoalDifference":-1,"Points":4,"Form":""},
+        {"Position":14,"TeamName":"Rayo Vallecano","Played":4,"Wins":1,"Draws":1,"Losses":2,"GoalsFor":7,"GoalsAgainst":10,"GoalDifference":-3,"Points":4,"Form":""},
+        {"Position":15,"TeamName":"Getafe CF","Played":4,"Wins":1,"Draws":1,"Losses":2,"GoalsFor":2,"GoalsAgainst":5,"GoalDifference":-3,"Points":4,"Form":""},
+        {"Position":16,"TeamName":"Celta","Played":5,"Wins":0,"Draws":3,"Losses":2,"GoalsFor":2,"GoalsAgainst":5,"GoalDifference":-3,"Points":3,"Form":""},
+        {"Position":17,"TeamName":"Villarreal CF","Played":4,"Wins":0,"Draws":2,"Losses":2,"GoalsFor":6,"GoalsAgainst":8,"GoalDifference":-2,"Points":2,"Form":""},
+        {"Position":18,"TeamName":"Málaga CF","Played":4,"Wins":0,"Draws":2,"Losses":2,"GoalsFor":1,"GoalsAgainst":7,"GoalDifference":-6,"Points":2,"Form":""},
+        {"Position":19,"TeamName":"Elche CF","Played":4,"Wins":0,"Draws":1,"Losses":3,"GoalsFor":5,"GoalsAgainst":12,"GoalDifference":-7,"Points":1,"Form":""},
+        {"Position":20,"TeamName":"Valencia CF","Played":4,"Wins":0,"Draws":1,"Losses":3,"GoalsFor":1,"GoalsAgainst":9,"GoalDifference":-8,"Points":1,"Form":""}
+      ]
+    },
+    {
+      "CountryName": "Italy",
+      "CountryFlag": "https://flagcdn.com/w320/it.png",
+      "CompetitionName": "Serie A",
+      "Teams": [
+        {"Position":1,"TeamName":"Roma","Played":3,"Wins":3,"Draws":0,"Losses":0,"GoalsFor":10,"GoalsAgainst":1,"GoalDifference":9,"Points":9,"Form":""},
+        {"Position":2,"TeamName":"Inter","Played":3,"Wins":3,"Draws":0,"Losses":0,"GoalsFor":8,"GoalsAgainst":3,"GoalDifference":5,"Points":9,"Form":""},
+        {"Position":3,"TeamName":"Lazio","Played":3,"Wins":3,"Draws":0,"Losses":0,"GoalsFor":4,"GoalsAgainst":1,"GoalDifference":3,"Points":9,"Form":""},
+        {"Position":4,"TeamName":"Como","Played":3,"Wins":2,"Draws":1,"Losses":0,"GoalsFor":7,"GoalsAgainst":3,"GoalDifference":4,"Points":7,"Form":""},
+        {"Position":5,"TeamName":"Milan","Played":3,"Wins":2,"Draws":1,"Losses":0,"GoalsFor":5,"GoalsAgainst":2,"GoalDifference":3,"Points":7,"Form":""},
+        {"Position":6,"TeamName":"Juventus","Played":3,"Wins":2,"Draws":1,"Losses":0,"GoalsFor":4,"GoalsAgainst":1,"GoalDifference":3,"Points":7,"Form":""},
+        {"Position":7,"TeamName":"Frosinone","Played":3,"Wins":2,"Draws":0,"Losses":1,"GoalsFor":6,"GoalsAgainst":3,"GoalDifference":3,"Points":6,"Form":""},
+        {"Position":8,"TeamName":"Atalanta","Played":3,"Wins":2,"Draws":0,"Losses":1,"GoalsFor":4,"GoalsAgainst":3,"GoalDifference":1,"Points":6,"Form":""},
+        {"Position":9,"TeamName":"Cagliari","Played":3,"Wins":2,"Draws":0,"Losses":1,"GoalsFor":2,"GoalsAgainst":1,"GoalDifference":1,"Points":6,"Form":""},
+        {"Position":10,"TeamName":"Sassuolo","Played":3,"Wins":1,"Draws":1,"Losses":1,"GoalsFor":5,"GoalsAgainst":5,"GoalDifference":0,"Points":4,"Form":""},
+        {"Position":11,"TeamName":"Udinese","Played":3,"Wins":1,"Draws":1,"Losses":1,"GoalsFor":5,"GoalsAgainst":5,"GoalDifference":0,"Points":4,"Form":""},
+        {"Position":12,"TeamName":"Napoli","Played":3,"Wins":1,"Draws":0,"Losses":2,"GoalsFor":5,"GoalsAgainst":5,"GoalDifference":0,"Points":3,"Form":""},
+        {"Position":13,"TeamName":"Torino","Played":3,"Wins":1,"Draws":0,"Losses":2,"GoalsFor":4,"GoalsAgainst":5,"GoalDifference":-1,"Points":3,"Form":""},
+        {"Position":14,"TeamName":"Lecce","Played":3,"Wins":1,"Draws":0,"Losses":2,"GoalsFor":2,"GoalsAgainst":5,"GoalDifference":-3,"Points":3,"Form":""},
+        {"Position":15,"TeamName":"Bologna","Played":3,"Wins":0,"Draws":1,"Losses":2,"GoalsFor":2,"GoalsAgainst":4,"GoalDifference":-2,"Points":1,"Form":""},
+        {"Position":16,"TeamName":"Parma","Played":3,"Wins":0,"Draws":1,"Losses":2,"GoalsFor":1,"GoalsAgainst":4,"GoalDifference":-3,"Points":1,"Form":""},
+        {"Position":17,"TeamName":"Monza","Played":3,"Wins":0,"Draws":1,"Losses":2,"GoalsFor":4,"GoalsAgainst":8,"GoalDifference":-4,"Points":1,"Form":""},
+        {"Position":18,"TeamName":"Venezia","Played":3,"Wins":0,"Draws":0,"Losses":3,"GoalsFor":2,"GoalsAgainst":7,"GoalDifference":-5,"Points":0,"Form":""},
+        {"Position":19,"TeamName":"Genoa","Played":3,"Wins":0,"Draws":0,"Losses":3,"GoalsFor":1,"GoalsAgainst":7,"GoalDifference":-6,"Points":0,"Form":""},
+        {"Position":20,"TeamName":"Fiorentina","Played":3,"Wins":0,"Draws":0,"Losses":3,"GoalsFor":1,"GoalsAgainst":9,"GoalDifference":-8,"Points":0,"Form":""}
+      ]
+    },
+    {
+      "CountryName": "Germany",
+      "CountryFlag": "https://flagcdn.com/w320/de.png",
+      "CompetitionName": "Bundesliga",
+      "Teams": [
+        {"Position":1,"TeamName":"FC Augsburg","Played":2,"Wins":2,"Draws":0,"Losses":0,"GoalsFor":7,"GoalsAgainst":1,"GoalDifference":6,"Points":6,"Form":""},
+        {"Position":2,"TeamName":"SC Freiburg","Played":2,"Wins":2,"Draws":0,"Losses":0,"GoalsFor":5,"GoalsAgainst":1,"GoalDifference":4,"Points":6,"Form":""},
+        {"Position":3,"TeamName":"Borussia Dortmund","Played":2,"Wins":2,"Draws":0,"Losses":0,"GoalsFor":5,"GoalsAgainst":2,"GoalDifference":3,"Points":6,"Form":""},
+        {"Position":4,"TeamName":"SV Elversberg","Played":2,"Wins":2,"Draws":0,"Losses":0,"GoalsFor":7,"GoalsAgainst":5,"GoalDifference":2,"Points":6,"Form":""},
+        {"Position":5,"TeamName":"Mainz 05","Played":2,"Wins":1,"Draws":1,"Losses":0,"GoalsFor":5,"GoalsAgainst":0,"GoalDifference":5,"Points":4,"Form":""},
+        {"Position":6,"TeamName":"Bayern München","Played":2,"Wins":1,"Draws":1,"Losses":0,"GoalsFor":5,"GoalsAgainst":1,"GoalDifference":4,"Points":4,"Form":""},
+        {"Position":7,"TeamName":"Bayer Leverkusen","Played":2,"Wins":1,"Draws":0,"Losses":1,"GoalsFor":6,"GoalsAgainst":3,"GoalDifference":3,"Points":3,"Form":""},
+        {"Position":8,"TeamName":"RB Leipzig","Played":2,"Wins":1,"Draws":0,"Losses":1,"GoalsFor":4,"GoalsAgainst":3,"GoalDifference":1,"Points":3,"Form":""},
+        {"Position":9,"TeamName":"VfB Stuttgart","Played":2,"Wins":1,"Draws":0,"Losses":1,"GoalsFor":5,"GoalsAgainst":6,"GoalDifference":-1,"Points":3,"Form":""},
+        {"Position":10,"TeamName":"Werder Bremen","Played":2,"Wins":1,"Draws":0,"Losses":1,"GoalsFor":4,"GoalsAgainst":5,"GoalDifference":-1,"Points":3,"Form":""},
+        {"Position":11,"TeamName":"1. FC Köln","Played":2,"Wins":1,"Draws":0,"Losses":1,"GoalsFor":4,"GoalsAgainst":6,"GoalDifference":-2,"Points":3,"Form":""},
+        {"Position":12,"TeamName":"SC Paderborn 07","Played":2,"Wins":0,"Draws":1,"Losses":1,"GoalsFor":0,"GoalsAgainst":1,"GoalDifference":-1,"Points":1,"Form":""},
+        {"Position":13,"TeamName":"Eintracht Frankfurt","Played":2,"Wins":0,"Draws":1,"Losses":1,"GoalsFor":4,"GoalsAgainst":7,"GoalDifference":-3,"Points":1,"Form":""},
+        {"Position":14,"TeamName":"FC Schalke 04","Played":2,"Wins":0,"Draws":1,"Losses":1,"GoalsFor":0,"GoalsAgainst":3,"GoalDifference":-3,"Points":1,"Form":""},
+        {"Position":15,"TeamName":"Union Berlin","Played":2,"Wins":0,"Draws":1,"Losses":1,"GoalsFor":3,"GoalsAgainst":7,"GoalDifference":-4,"Points":1,"Form":""},
+        {"Position":16,"TeamName":"TSG Hoffenheim","Played":2,"Wins":0,"Draws":0,"Losses":2,"GoalsFor":4,"GoalsAgainst":6,"GoalDifference":-2,"Points":0,"Form":""},
+        {"Position":17,"TeamName":"Borussia Mönchengladbach","Played":2,"Wins":0,"Draws":0,"Losses":2,"GoalsFor":3,"GoalsAgainst":7,"GoalDifference":-4,"Points":0,"Form":""},
+        {"Position":18,"TeamName":"Hamburger SV","Played":2,"Wins":0,"Draws":0,"Losses":2,"GoalsFor":0,"GoalsAgainst":7,"GoalDifference":-7,"Points":0,"Form":""}
+      ]
+    },
+    {
+      "CountryName": "France",
+      "CountryFlag": "https://flagcdn.com/w320/fr.png",
+      "CompetitionName": "Ligue 1",
+      "Teams": [
+        {"Position":1,"TeamName":"Monaco","Played":3,"Wins":3,"Draws":0,"Losses":0,"GoalsFor":5,"GoalsAgainst":1,"GoalDifference":4,"Points":9,"Form":""},
+        {"Position":2,"TeamName":"Paris FC","Played":3,"Wins":2,"Draws":1,"Losses":0,"GoalsFor":6,"GoalsAgainst":2,"GoalDifference":4,"Points":7,"Form":""},
+        {"Position":3,"TeamName":"Lyon","Played":3,"Wins":2,"Draws":1,"Losses":0,"GoalsFor":6,"GoalsAgainst":2,"GoalDifference":4,"Points":7,"Form":""},
+        {"Position":4,"TeamName":"Lille","Played":3,"Wins":2,"Draws":1,"Losses":0,"GoalsFor":5,"GoalsAgainst":2,"GoalDifference":3,"Points":7,"Form":""},
+        {"Position":5,"TeamName":"Rennes","Played":3,"Wins":2,"Draws":1,"Losses":0,"GoalsFor":7,"GoalsAgainst":5,"GoalDifference":2,"Points":7,"Form":""},
+        {"Position":6,"TeamName":"Strasbourg","Played":3,"Wins":2,"Draws":0,"Losses":1,"GoalsFor":8,"GoalsAgainst":7,"GoalDifference":1,"Points":6,"Form":""},
+        {"Position":7,"TeamName":"Brest","Played":3,"Wins":1,"Draws":2,"Losses":0,"GoalsFor":6,"GoalsAgainst":5,"GoalDifference":1,"Points":5,"Form":""},
+        {"Position":8,"TeamName":"Lorient","Played":3,"Wins":1,"Draws":1,"Losses":1,"GoalsFor":2,"GoalsAgainst":2,"GoalDifference":0,"Points":4,"Form":""},
+        {"Position":9,"TeamName":"Troyes","Played":3,"Wins":1,"Draws":1,"Losses":1,"GoalsFor":4,"GoalsAgainst":7,"GoalDifference":-3,"Points":4,"Form":""},
+        {"Position":10,"TeamName":"Marseille","Played":3,"Wins":1,"Draws":0,"Losses":2,"GoalsFor":6,"GoalsAgainst":5,"GoalDifference":1,"Points":3,"Form":""},
+        {"Position":11,"TeamName":"Lens","Played":3,"Wins":1,"Draws":0,"Losses":2,"GoalsFor":6,"GoalsAgainst":5,"GoalDifference":1,"Points":3,"Form":""},
+        {"Position":12,"TeamName":"Angers","Played":3,"Wins":1,"Draws":0,"Losses":2,"GoalsFor":4,"GoalsAgainst":5,"GoalDifference":-1,"Points":3,"Form":""},
+        {"Position":13,"TeamName":"Paris Saint-Germain","Played":3,"Wins":0,"Draws":2,"Losses":1,"GoalsFor":5,"GoalsAgainst":6,"GoalDifference":-1,"Points":2,"Form":""},
+        {"Position":14,"TeamName":"Le Mans","Played":3,"Wins":0,"Draws":2,"Losses":1,"GoalsFor":5,"GoalsAgainst":6,"GoalDifference":-1,"Points":2,"Form":""},
+        {"Position":15,"TeamName":"Nice","Played":3,"Wins":0,"Draws":2,"Losses":1,"GoalsFor":1,"GoalsAgainst":4,"GoalDifference":-3,"Points":2,"Form":""},
+        {"Position":16,"TeamName":"Le Havre","Played":3,"Wins":0,"Draws":1,"Losses":2,"GoalsFor":2,"GoalsAgainst":4,"GoalDifference":-2,"Points":1,"Form":""},
+        {"Position":17,"TeamName":"Toulouse","Played":3,"Wins":0,"Draws":1,"Losses":2,"GoalsFor":2,"GoalsAgainst":5,"GoalDifference":-3,"Points":1,"Form":""},
+        {"Position":18,"TeamName":"Auxerre","Played":3,"Wins":0,"Draws":0,"Losses":3,"GoalsFor":4,"GoalsAgainst":11,"GoalDifference":-7,"Points":0,"Form":""}
+      ]
+    }
+  ],
 
+  "PlayerConfig": {
+    "ClickCount": 3,
+    "ShowEvents": false,
+    "ShowScores": false,
+    "ShowUpdate": false,
+    "UpdateLink": "",
+    "ShowChannels": true,
+    "ShowQuiz": false,
+    "ShowTables": true,
+    "ShowFootballFixtures": true,
+    "PlayerPackage": "com.smartflix.proplayer",
+    "ShowCustomAds": false,
+    "UpdateVersion": 1,
+    "ShowAutoEvents": false,
+    "ShowAutoChannels": false,
+    "ShowManualEvents": true,
+    "ShowManualChannels": true,
+    "PlayerChannelsAndEventsInPlayer": true
+  },
+
+  "CustomInterAds": [
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/hx9h2ctz5mkiuojooqeaso8jpk96.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 1,
+      "InterstitialImageLink": "https://image.adsoftheworld.com/gooc3m74ymk8fjkps26s3ju3oq9z",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    }
+  ]
+}
