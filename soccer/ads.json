@@ -1382,7 +1382,7 @@
   ],
   "PlayerConfig": {
     "ClickCount": 3,
-    "ShowEvents": false,
+    "ShowEvents": true,
     "ShowScores": false,
     "ShowUpdate": false,
     "UpdateLink": "",
