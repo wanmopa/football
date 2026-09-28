@@ -1,0 +1,561 @@
+{
+  "Tables": [
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Philadelphia Eagles",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Chicago Bears",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "CompetitionName": "American Football"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Talia Gibson",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Leylah Fernandez",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "CompetitionName": "Tennis"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "WNBA Playoffs",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "First Round",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "CompetitionName": "Basketball"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Philadelphia",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Atlanta",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "CompetitionName": "Baseball"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Florida",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Carolina",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "CompetitionName": "Ice Hockey"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Italy",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "South Africa",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "CompetitionName": "Rugby"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "South Africa",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Australia",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "CompetitionName": "Cricket"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Azerbaijan GP",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Formula 1",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "CompetitionName": "Motorsport"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Presidents Cup",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Day 4",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "CompetitionName": "Golf"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 1,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Italian Superbike",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 0,
+          "Points": 0,
+          "Position": 2,
+          "TeamLogo": "https://flagcdn.com/w320/us.png",
+          "TeamName": "Race 1",
+          "GoalsAgainst": 0,
+          "GoalDifference": 0
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "CompetitionName": "Motorcycling"
+    }
+  ],
+  "PlayerConfig": {
+    "ClickCount": 3,
+    "PlayerName": "GoPlayer",
+    "ShowTables": true,
+    "ShowUpdate": false,
+    "ShowFixtures": true,
+    "PlayerPackage": "org.firetube.mediastream",
+    "PlayericonUrl": "https://play-lh.googleusercontent.com/R6Xysk2Cs-jlS_CbdjjtXdnZjfXefz4LZ_Rgcpg1qAujC6jpfr9trr6o7RKPaISOoSQ0TgFow8ojQcbCMJ7LjA=w480-h960-rw",
+    "UpdatePackage": "com.ukturksapp.fixturestandingni",
+    "UpdateVersion": 1,
+    "ShowTvChannels": false,
+    "ShowLiveMatches": false,
+    "ShowCustomInterAds": false,
+    "PlayInExternalPlayer": false
+  },
+  "CustomInterAds": [
+    {
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://storage.fireboss.app/videoplayback.webm",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://storage.fireboss.app/ad2.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowImageOrVideo": 1,
+      "InterstitialImageLink": "https://volkanos.muve.pl/media/volkanos/image/14/db/5c8f0d899b836a4b2cf3a5bf2447889d63faa0c44d53a386d5b0e6d66ba1.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    }
+  ],
+  "FootballFixtures": [
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Philadelphia Eagles",
+              "HomeTeam": "Chicago Bears",
+              "MatchTime": "Mon, 20:15",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "American Football"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Talia Gibson",
+              "HomeTeam": "Leylah Fernandez",
+              "MatchTime": "Mon, 07:00",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "Tennis"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "WNBA Playoffs",
+              "HomeTeam": "First Round",
+              "MatchTime": "Tue, 17:30",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "Basketball"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Philadelphia",
+              "HomeTeam": "Atlanta",
+              "MatchTime": "Tue, 11:00",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "Baseball"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Florida",
+              "HomeTeam": "Carolina",
+              "MatchTime": "Tue, 14:00",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "Ice Hockey"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Italy",
+              "HomeTeam": "South Africa",
+              "MatchTime": "Mon, 10:00",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "Rugby"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "South Africa",
+              "HomeTeam": "Australia",
+              "MatchTime": "Mon, 07:45",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "Cricket"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Azerbaijan GP",
+              "HomeTeam": "Formula 1",
+              "MatchTime": "Mon, 17:00",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "Motorsport"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Presidents Cup",
+              "HomeTeam": "Day 4",
+              "MatchTime": "Mon, 17:00",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "Golf"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "International",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Italian Superbike",
+              "HomeTeam": "Race 1",
+              "MatchTime": "Mon, 09:30",
+              "AwayTeamLogo": "https://flagcdn.com/w320/us.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/us.png"
+            }
+          ],
+          "CompetitionName": "Motorcycling"
+        }
+      ]
+    }
+  ]
+}
