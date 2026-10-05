@@ -1,0 +1,43 @@
+{
+  "ads": {
+    "ShowAds": false,
+    "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+    "AdsInPlayer": false,
+    "ShowBanners": true,
+    "ShowNatives": true,
+    "TradPlusAppId": "94440FAB5A631E2398101AEAA8EFCE11",
+    "BannerPriority": "tradplus",
+    "MintegralAppId": "5537791",
+    "NativePriority": "tradplus",
+    "MintegralAppKey": "6a531861573949d6ce3ae626e35333ab",
+    "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "ShowInterstitials": true,
+    "ClickCountForAdmob": 2,
+    "BackupBannerNetwork": "mintegral",
+    "BackupNativeNetwork": "mintegral",
+    "ClickCountNormalAds": 2,
+    "InterstitialPriority": "tradplus",
+    "TradPlusBannerUnitID": "7DDC38219EA7135A556F1B3111307F12",
+    "TradPlusNativeUnitID": "F234C5E8045DF5E14D2BC763EB96DB12",
+    "MintegralBannerUnitId": "6658278",
+    "MintegralNativeUnitId": "6658280",
+    "BackupInterstitialNetwork": "mintegral",
+    "MintegralBannerPlacementId": "4203696",
+    "MintegralNativePlacementId": "4203698",
+    "PLayerAdsIntervalInMinutes": 1,
+    "TradPlusInterstitialUnitId": "46160A9E6DCFB6A8558576D90B21F112",
+    "MintegralInterstitialUnitId": "6658274",
+    "MintegralInterstitialPlacementId": "4203692"
+  },
+  "config": {
+    "Showupdate": false,
+    "UpdateLink": "https://play.google.com/store/apps/details?id=com.voltra.quiz",
+    "AllowPlayer": false,
+    "Maintenancetext": "new app update is available",
+    "Showmaintenance": false,
+    "Updateminimumversion": 1,
+    "ShowEventsAndChannels": false
+  }
+}
