@@ -1,0 +1,746 @@
+{
+  "Tables": [
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 8,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 9,
+          "Points": 16,
+          "GoalsFor": 287,
+          "Position": 1,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Buffalo Bills",
+          "GoalsAgainst": 199,
+          "GoalDifference": 88
+        },
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 9,
+          "Points": 14,
+          "GoalsFor": 278,
+          "Position": 2,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Cincinnati Bengals",
+          "GoalsAgainst": 193,
+          "GoalDifference": 85
+        },
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 9,
+          "Points": 14,
+          "GoalsFor": 269,
+          "Position": 3,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Jacksonville Jaguars",
+          "GoalsAgainst": 144,
+          "GoalDifference": 125
+        },
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 9,
+          "Points": 14,
+          "GoalsFor": 237,
+          "Position": 4,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Kansas City Chiefs",
+          "GoalsAgainst": 156,
+          "GoalDifference": 81
+        },
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 9,
+          "Points": 14,
+          "GoalsFor": 198,
+          "Position": 5,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Denver Broncos",
+          "GoalsAgainst": 186,
+          "GoalDifference": 12
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 3,
+          "Played": 9,
+          "Points": 12,
+          "GoalsFor": 198,
+          "Position": 6,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Pittsburgh Steelers",
+          "GoalsAgainst": 182,
+          "GoalDifference": 16
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 10,
+          "Points": 12,
+          "GoalsFor": 188,
+          "Position": 7,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Cleveland Browns",
+          "GoalsAgainst": 220,
+          "GoalDifference": -32
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 10,
+          "Points": 10,
+          "GoalsFor": 221,
+          "Position": 8,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "New England Patriots",
+          "GoalsAgainst": 242,
+          "GoalDifference": -21
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 10,
+          "Points": 8,
+          "GoalsFor": 209,
+          "Position": 9,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Baltimore Ravens",
+          "GoalsAgainst": 259,
+          "GoalDifference": -50
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 10,
+          "Points": 8,
+          "GoalsFor": 251,
+          "Position": 10,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Las Vegas Raiders",
+          "GoalsAgainst": 289,
+          "GoalDifference": -38
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 7,
+          "Played": 10,
+          "Points": 6,
+          "GoalsFor": 208,
+          "Position": 11,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Indianapolis Colts",
+          "GoalsAgainst": 271,
+          "GoalDifference": -63
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 8,
+          "Points": 4,
+          "GoalsFor": 189,
+          "Position": 12,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Houston Texans",
+          "GoalsAgainst": 197,
+          "GoalDifference": -8
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 8,
+          "Played": 10,
+          "Points": 4,
+          "GoalsFor": 194,
+          "Position": 13,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "New York Jets",
+          "GoalsAgainst": 254,
+          "GoalDifference": -60
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 7,
+          "Played": 8,
+          "Points": 2,
+          "GoalsFor": 122,
+          "Position": 14,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Los Angeles Chargers",
+          "GoalsAgainst": 195,
+          "GoalDifference": -73
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 8,
+          "Played": 9,
+          "Points": 2,
+          "GoalsFor": 148,
+          "Position": 15,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Miami Dolphins",
+          "GoalsAgainst": 224,
+          "GoalDifference": -76
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 0,
+          "Losses": 8,
+          "Played": 9,
+          "Points": 2,
+          "GoalsFor": 167,
+          "Position": 16,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Tennessee Titans",
+          "GoalsAgainst": 239,
+          "GoalDifference": -72
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "CompetitionName": "NFL - American Football Conference (AFC)"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 8,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 9,
+          "Points": 16,
+          "GoalsFor": 281,
+          "Position": 1,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "San Francisco 49ers",
+          "GoalsAgainst": 196,
+          "GoalDifference": 85
+        },
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 9,
+          "Points": 14,
+          "GoalsFor": 257,
+          "Position": 2,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Detroit Lions",
+          "GoalsAgainst": 199,
+          "GoalDifference": 58
+        },
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 9,
+          "Points": 14,
+          "GoalsFor": 176,
+          "Position": 3,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Minnesota Vikings",
+          "GoalsAgainst": 126,
+          "GoalDifference": 50
+        },
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 9,
+          "Points": 14,
+          "GoalsFor": 241,
+          "Position": 4,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Chicago Bears",
+          "GoalsAgainst": 184,
+          "GoalDifference": 57
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 9,
+          "Points": 11,
+          "GoalsFor": 203,
+          "Position": 5,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "New York Giants",
+          "GoalsAgainst": 196,
+          "GoalDifference": 7
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 10,
+          "Points": 12,
+          "GoalsFor": 226,
+          "Position": 6,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Green Bay Packers",
+          "GoalsAgainst": 221,
+          "GoalDifference": 5
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 10,
+          "Points": 12,
+          "GoalsFor": 223,
+          "Position": 7,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Seattle Seahawks",
+          "GoalsAgainst": 175,
+          "GoalDifference": 48
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 0,
+          "Losses": 4,
+          "Played": 10,
+          "Points": 12,
+          "GoalsFor": 248,
+          "Position": 8,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Los Angeles Rams",
+          "GoalsAgainst": 187,
+          "GoalDifference": 61
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 5,
+          "Played": 9,
+          "Points": 8,
+          "GoalsFor": 219,
+          "Position": 9,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Carolina Panthers",
+          "GoalsAgainst": 236,
+          "GoalDifference": -17
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 10,
+          "Points": 8,
+          "GoalsFor": 286,
+          "Position": 10,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Dallas Cowboys",
+          "GoalsAgainst": 282,
+          "GoalDifference": 4
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 5,
+          "Played": 9,
+          "Points": 7,
+          "GoalsFor": 196,
+          "Position": 11,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Washington Commanders",
+          "GoalsAgainst": 223,
+          "GoalDifference": -27
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 9,
+          "Points": 6,
+          "GoalsFor": 202,
+          "Position": 12,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Tampa Bay Buccaneers",
+          "GoalsAgainst": 178,
+          "GoalDifference": 24
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 9,
+          "Points": 6,
+          "GoalsFor": 202,
+          "Position": 13,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "New Orleans Saints",
+          "GoalsAgainst": 236,
+          "GoalDifference": -34
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 7,
+          "Played": 10,
+          "Points": 6,
+          "GoalsFor": 201,
+          "Position": 14,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Atlanta Falcons",
+          "GoalsAgainst": 258,
+          "GoalDifference": -57
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 0,
+          "Losses": 7,
+          "Played": 10,
+          "Points": 6,
+          "GoalsFor": 184,
+          "Position": 15,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Arizona Cardinals",
+          "GoalsAgainst": 289,
+          "GoalDifference": -105
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 7,
+          "Played": 9,
+          "Points": 4,
+          "GoalsFor": 148,
+          "Position": 16,
+          "TeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+          "TeamName": "Philadelphia Eagles",
+          "GoalsAgainst": 221,
+          "GoalDifference": -73
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "CompetitionName": "NFL - National Football Conference (NFC)"
+    }
+  ],
+  "PlayerConfig": {
+    "ClickCount": 3,
+    "PlayerName": "GoPlayer",
+    "ShowTables": true,
+    "ShowUpdate": false,
+    "ShowFixtures": true,
+    "PlayerPackage": "org.firetube.mediastream",
+    "PlayericonUrl": "https://play-lh.googleusercontent.com/R6Xysk2Cs-jlS_CbdjjtXdnZjfXefz4LZ_Rgcpg1qAujC6jpfr9trr6o7RKPaISOoSQ0TgFow8ojQcbCMJ7LjA=w480-h960-rw",
+    "UpdatePackage": "com.ukturksapp.fixturestandingni",
+    "UpdateVersion": 1,
+    "ShowTvChannels": false,
+    "ShowLiveMatches": false,
+    "ShowCustomInterAds": false,
+    "PlayInExternalPlayer": true
+  },
+  "CustomInterAds": [
+    {
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://storage.fireboss.app/videoplayback.webm",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://storage.fireboss.app/ad2.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowImageOrVideo": 1,
+      "InterstitialImageLink": "https://volkanos.muve.pl/media/volkanos/image/14/db/5c8f0d899b836a4b2cf3a5bf2447889d63faa0c44d53a386d5b0e6d66ba1.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    }
+  ],
+  "FootballFixtures": [
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Indianapolis Colts",
+              "HomeTeam": "Houston Texans",
+              "MatchTime": "Thu, Nov 19 • 8:15 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Miami Dolphins",
+              "HomeTeam": "Buffalo Bills",
+              "MatchTime": "Sun, Nov 22 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Baltimore Ravens",
+              "HomeTeam": "Carolina Panthers",
+              "MatchTime": "Sun, Nov 22 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New Orleans Saints",
+              "HomeTeam": "Chicago Bears",
+              "MatchTime": "Sun, Nov 22 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tennessee Titans",
+              "HomeTeam": "Dallas Cowboys",
+              "MatchTime": "Sun, Nov 22 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tampa Bay Buccaneers",
+              "HomeTeam": "Detroit Lions",
+              "MatchTime": "Sun, Nov 22 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Arizona Cardinals",
+              "HomeTeam": "Kansas City Chiefs",
+              "MatchTime": "Sun, Nov 22 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Jacksonville Jaguars",
+              "HomeTeam": "New York Giants",
+              "MatchTime": "Sun, Nov 22 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New York Jets",
+              "HomeTeam": "Los Angeles Chargers",
+              "MatchTime": "Sun, Nov 22 • 4:05 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Las Vegas Raiders",
+              "HomeTeam": "Denver Broncos",
+              "MatchTime": "Sun, Nov 22 • 4:25 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Pittsburgh Steelers",
+              "HomeTeam": "Philadelphia Eagles",
+              "MatchTime": "Sun, Nov 22 • 4:25 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Minnesota Vikings",
+              "HomeTeam": "San Francisco 49ers",
+              "MatchTime": "Sun, Nov 22 • 8:20 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Cincinnati Bengals",
+              "HomeTeam": "Washington Commanders",
+              "MatchTime": "Mon, Nov 23 • 8:15 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Green Bay Packers",
+              "HomeTeam": "Los Angeles Rams",
+              "MatchTime": "Wed, Nov 25 • 8:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chicago Bears",
+              "HomeTeam": "Detroit Lions",
+              "MatchTime": "Thu, Nov 26 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Philadelphia Eagles",
+              "HomeTeam": "Dallas Cowboys",
+              "MatchTime": "Thu, Nov 26 • 4:30 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Kansas City Chiefs",
+              "HomeTeam": "Buffalo Bills",
+              "MatchTime": "Thu, Nov 26 • 8:20 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Denver Broncos",
+              "HomeTeam": "Pittsburgh Steelers",
+              "MatchTime": "Fri, Nov 27 • 3:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New Orleans Saints",
+              "HomeTeam": "Cincinnati Bengals",
+              "MatchTime": "Sun, Nov 29 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Las Vegas Raiders",
+              "HomeTeam": "Cleveland Browns",
+              "MatchTime": "Sun, Nov 29 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Baltimore Ravens",
+              "HomeTeam": "Houston Texans",
+              "MatchTime": "Sun, Nov 29 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New York Giants",
+              "HomeTeam": "Indianapolis Colts",
+              "MatchTime": "Sun, Nov 29 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New York Jets",
+              "HomeTeam": "Miami Dolphins",
+              "MatchTime": "Sun, Nov 29 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atlanta Falcons",
+              "HomeTeam": "Minnesota Vikings",
+              "MatchTime": "Sun, Nov 29 • 1:00 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tennessee Titans",
+              "HomeTeam": "Jacksonville Jaguars",
+              "MatchTime": "Sun, Nov 29 • 4:05 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Washington Commanders",
+              "HomeTeam": "Arizona Cardinals",
+              "MatchTime": "Sun, Nov 29 • 4:25 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Seattle Seahawks",
+              "HomeTeam": "San Francisco 49ers",
+              "MatchTime": "Sun, Nov 29 • 4:25 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New England Patriots",
+              "HomeTeam": "Los Angeles Chargers",
+              "MatchTime": "Sun, Nov 29 • 8:20 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Carolina Panthers",
+              "HomeTeam": "Tampa Bay Buccaneers",
+              "MatchTime": "Mon, Nov 30 • 8:15 PM ET",
+              "AwayTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png",
+              "HomeTeamLogo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Football_ball.png"
+            }
+          ],
+          "CompetitionName": "NFL Regular Season"
+        }
+      ]
+    }
+  ]
+}
